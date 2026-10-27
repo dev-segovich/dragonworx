@@ -1,6 +1,6 @@
 # DRAGONWORX.AI — Coming soon
 
-Static coming-soon page for dragonworx.com: stacked logo, "Coming soon" headline, a live countdown to the launch (January 1, 2027, 12:00 a.m. Eastern Time) and a short introduction to Dragonworx. Built to the DRAGONWORX.AI Brand Guidelines v1.0.
+Static coming-soon page for dragonworx.ai: stacked logo, "Coming soon" headline, a live countdown to the launch (January 1, 2027, 12:00 a.m. Eastern Time) and a short introduction to Dragonworx. Built to the DRAGONWORX.AI Brand Guidelines v1.0.
 
 No build step: plain HTML, CSS and JavaScript.
 
